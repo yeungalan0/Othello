@@ -1,6 +1,6 @@
 # Othello Bot
 
-This is an Othello bot I made for a class project that uses alpha beta pruning and heuristics to play Othello strategically. The bot, AlphaBetaBot3, won the class competition, and after I played it against several other online bots (and won) I decided it was worth putting it on GitHub and seeing if anyone could beat it, afterall it a champion bot. Don't take my word for it though, play it and find out! ;)
+This is an Othello bot I made for a class project that uses alpha beta pruning and heuristics to play Othello strategically. The bot, AlphaBetaBot3, won the class competition, and after I played it against several other online bots (and won) I decided it was worth putting it on GitHub and seeing if anyone could beat it, afterall it is a champion bot. Don't take my word for it though, play it and find out! ;)
 
 # Installation
 
