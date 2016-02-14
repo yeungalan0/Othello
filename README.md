@@ -31,6 +31,8 @@ NOTE:
 - Currently, when running the display every game will open a new display window without closing the old one, so don't run too many games with the display on at once
 - When using HumanPlayer with the display on you can click on the display to make the cooresponding move
 
+# Example Image
+
 ![Example Play]
 (othello.png)
 
