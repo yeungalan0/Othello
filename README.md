@@ -1,6 +1,6 @@
 # Othello Bot
 
-This is an Othello bot I made for a class project that uses alpha beta pruning and heuristics to play Othello strategically. The bot, AlphaBetaBot3, won the class competition, and after I played it against several other online bots (and won) I decided it was worth putting it on GitHub and seeing if anyone could beat it, afterall it is a champion bot. Don't take my word for it though, play it and find out! ;)
+This is an Othello bot I made for a class project that uses alpha beta pruning and heuristics to play Othello strategically. The bot, AlphaBetaBot3, won the class competition, and after I played it against several other online bots (and won) I decided it was worth putting it on GitHub and seeing if anyone could beat it, after all it is a champion bot. Don't take my word for it though, play it and find out! ;)
 
 # Installation
 
@@ -29,7 +29,7 @@ java OthelloGame AlphaBetaBot3 HumanPlayer 8 1 1 1000
 ```
 NOTE:
 - Currently, when running the display every game will open a new display window without closing the old one, so don't run too many games with the display on at once
-- When using HumanPlayer with the display on you can click on the display to make the cooresponding move
+- When using HumanPlayer with the display on you can click on the display to make the corresponding move
 
 # Example Image
 
