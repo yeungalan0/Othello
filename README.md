@@ -17,10 +17,11 @@ javac *.java
 java OthelloGame BlackBotClassName WhiteBotClassName BOARD_SIZE NUMBER_GAMES PLAYBACK_DISPLAY PLAYBACK_DELAY
 
 Where:
-BOARD_SIZE is a positive integer
-NUMBER_GAMES is a positive integer
-PLAYBACK_DISPLAY is a binary value, 0 or 1
-PLAYBACK_DELAY is a positive integer that represents the delay when making a move (usually used when playing against a bot) in milliseconds
+
+*   BOARD_SIZE is a positive integer
+*   NUMBER_GAMES is a positive integer
+*   PLAYBACK_DISPLAY is a binary value, 0 or 1
+*   PLAYBACK_DELAY is a positive integer that represents the delay when making a move (usually used when playing against a bot) in milliseconds
 
 For example:
 
